@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Mac Explorer</title>
+        <item>
+            <title>0.1.9</title>
+            <pubDate>Sat, 25 Jul 2026 18:29:29 +0200</pubDate>
+            <link>https://mac-explorer.com/</link>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Ami777/mac-explorer-releases/releases/download/v0.1.9/Mac-Explorer-0.1.9.zip" length="2574530" type="application/octet-stream" sparkle:edSignature="4lfqSbX137aMJfz6KhirEBHSFik0xTKkGPoSel6ZXXCrk5igCjfYfpD2JjKsdzYD8WnjBts5hseFwsO+lOEXDw=="/>
+        </item>
+    </channel>
+</rss>
