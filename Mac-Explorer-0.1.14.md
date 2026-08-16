@@ -1,0 +1,21 @@
+## Changes
+
+- feat: support both Apple Silicon and Apple Intel
+- feat: safely update managed configuration content
+- fix: keep status bar at window bottom
+- fix: stabilize browser layout during navigation
+- fix: maximize first window without fullscreen
+- fix: present the first window in fullscreen
+- feat: add undo history protocol for scripts
+- build: produce Universal 2 application bundles
+- fix: keep sidebar and window resizing independent
+- fix: keep sidebar divider active at window edges
+- fix: keep window size while widening sidebar
+- fix: fall back to native favorite icons
+- fix: trim pasted address paths
+- fix: keep folder actions available for file selections
+- fix: replace Select All with a plain click
+- fix: render inspector metadata and balance its layout
+- fix: isolate sidebar resizing from window edges
+- fix: preserve toolbar action state across filter layout
+- fix: restore Applications favorite icon
