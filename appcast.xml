@@ -3,6 +3,16 @@
     <channel>
         <title>Mac Explorer</title>
         <item>
+            <title>0.1.17</title>
+            <pubDate>Fri, 21 Aug 2026 22:22:09 +0200</pubDate>
+            <link>https://mac-explorer.com/</link>
+            <sparkle:version>161</sparkle:version>
+            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Ami777/mac-explorer-releases/main/Mac-Explorer-0.1.17.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/Ami777/mac-explorer-releases/releases/download/v0.1.17/Mac-Explorer-0.1.17.zip" length="9437746" type="application/octet-stream" sparkle:edSignature="rqr22Ezdj6ZbCsbXTF6/ABIX6qCQSUrUmnjsBEZg/NnFMe/Zsa5x/WkmQ2Qr5hErEInCpEGzBSl1MsVb7k7gDg=="/>
+        </item>
+        <item>
             <title>0.1.16</title>
             <pubDate>Thu, 20 Aug 2026 08:45:28 +0200</pubDate>
             <link>https://mac-explorer.com/</link>
